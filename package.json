@@ -1,0 +1,15 @@
+{
+  "name": "fixedstar",
+  "version": "0.0.1",
+  "description": "这是一个提供基于HTML项目开发的集成引擎。",
+  "author": {
+    "name": "夜影森林",
+    "email": "2823857417@qq.com",
+    "url": "http://www.aisocool.com/"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
